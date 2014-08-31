@@ -1,4 +1,5 @@
 "#### 表示設定
+set fileencodings=iso-2022-jp,cp932,sjis,euc-jp,utf-8
 set number		     "行番号表示
 set title   		 "編集中のファイル名を表示
 syntax on		     "コードの色分け
