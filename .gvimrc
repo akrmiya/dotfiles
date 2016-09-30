@@ -1,1 +1,1 @@
-"### 設定中
+ colorscheme wombat
