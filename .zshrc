@@ -58,4 +58,7 @@ export PATH=$HOME/.nodebrew/current/bin:$PATH
 export GOPATH=$HOME/go/third-party:$HOME/go/my-project
 export PATH=$HOME/go/third-party/bin:$HOME/go/my-project/bin:$PATH
 
+# for Laravel 
+export PATH="~/.composer/vendor/bin:$PATH"
+
 # alias
